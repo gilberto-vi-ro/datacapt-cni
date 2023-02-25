@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/datacapt-cni/static/css/main.eb2a35f9.css",
+    "main.js": "/datacapt-cni/static/js/main.a32ec558.js",
+    "static/media/INPI.png": "/datacapt-cni/static/media/INPI.245d170e5f3d82d2a0d2.png",
+    "static/media/bg3.jpg": "/datacapt-cni/static/media/bg3.6e8218320339c950bb29.jpg",
+    "index.html": "/datacapt-cni/index.html",
+    "main.eb2a35f9.css.map": "/datacapt-cni/static/css/main.eb2a35f9.css.map",
+    "main.a32ec558.js.map": "/datacapt-cni/static/js/main.a32ec558.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb2a35f9.css",
+    "static/js/main.a32ec558.js"
+  ]
+}
