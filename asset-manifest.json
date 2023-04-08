@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/datacapt-cni/static/css/main.5774ea3c.css",
-    "main.js": "/datacapt-cni/static/js/main.bf017ab7.js",
+    "main.css": "/datacapt-cni/static/css/main.ad547b03.css",
+    "main.js": "/datacapt-cni/static/js/main.2874bc9a.js",
     "static/media/INPI.png": "/datacapt-cni/static/media/INPI.245d170e5f3d82d2a0d2.png",
     "static/media/logoIndigenous.jpg": "/datacapt-cni/static/media/logoIndigenous.ae81e7772dc4efaaf6e3.jpg",
     "static/media/male.png": "/datacapt-cni/static/media/male.ed81d808f69a0a3f428c.png",
@@ -10,11 +10,11 @@
     "static/media/userDefault.png": "/datacapt-cni/static/media/userDefault.92ee44e312a155f57dc3.png",
     "static/media/female.jpg": "/datacapt-cni/static/media/female.391402d623d624060acb.jpg",
     "index.html": "/datacapt-cni/index.html",
-    "main.5774ea3c.css.map": "/datacapt-cni/static/css/main.5774ea3c.css.map",
-    "main.bf017ab7.js.map": "/datacapt-cni/static/js/main.bf017ab7.js.map"
+    "main.ad547b03.css.map": "/datacapt-cni/static/css/main.ad547b03.css.map",
+    "main.2874bc9a.js.map": "/datacapt-cni/static/js/main.2874bc9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.5774ea3c.css",
-    "static/js/main.bf017ab7.js"
+    "static/css/main.ad547b03.css",
+    "static/js/main.2874bc9a.js"
   ]
 }
